@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# This script is a certified and copyrighted property of raping.me
+# This script is a certified and copyrighted property of signed
 # Refactoring it without the developer's (exhaust) agreement is prohibited!
 
 # exhaust 2022
@@ -49,7 +49,7 @@
 
     echo ""
 
-    echo "To install raping.me flameshot extension, input your information below."
+    echo "To install signed.host flameshot extension, input your information below."
     echo "You can exit the installator anytime by clicking [CTRL + C]."
 
     echo ""
@@ -58,7 +58,7 @@
     read tokenX
     echo ""
 
-    echo "Okay, now what's your FULL DOMAIN (example: iuse.raping.me [DON'T INCLUDE THE \"HTTPS://\"] )"
+    echo "Okay, now what's your FULL DOMAIN (example: iuse.signed.host [DON'T INCLUDE THE \"HTTPS://\"] )"
     read domainX
     echo ""
 # )
